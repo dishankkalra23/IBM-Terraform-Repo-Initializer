@@ -44,6 +44,7 @@ The script will prompt you to enter the URL of the repository you wish to clone.
 
 ## Repository Structure
 
+```
 Terraform-IBM-Modules-Script/
 │
 ├── README.md
@@ -54,3 +55,4 @@ Terraform-IBM-Modules-Script/
 │   ├── lib/
 │   └── ...
 └── LICENSE                 # License for the repository (if applicable)
+```
